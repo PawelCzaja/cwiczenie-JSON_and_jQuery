@@ -1,0 +1,1948 @@
+{
+    "ksiazki": [
+        {
+            "ident": "AKCIAZ",
+            "tytul": "Aktywna ci\u0105\u017ca dla bystrzak\u00f3w",
+            "liczbastron": "384",
+            "datawydania": "2008-05-14"
+        },
+        {
+            "ident": "AKGIBY",
+            "tytul": "Akordy gitarowe dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2016-09-19"
+        },
+        {
+            "ident": "AKWABY",
+            "tytul": "Akwarium s\u0142odkowodne dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2010-08-06"
+        },
+        {
+            "ident": "ALGOBY",
+            "tytul": "Algorytmy dla bystrzak\u00f3w",
+            "liczbastron": "424",
+            "datawydania": "2020-01-31"
+        },
+        {
+            "ident": "ANFIBY",
+            "tytul": "Anatomia i fizjologia dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2009-03-18"
+        },
+        {
+            "ident": "ANGBYS",
+            "tytul": "Angielski dla bystrzak\u00f3w",
+            "liczbastron": "325",
+            "datawydania": "2017-08-30"
+        },
+        {
+            "ident": "ANTEB4",
+            "tytul": "Analiza techniczna dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "368",
+            "datawydania": "2021-03-09"
+        },
+        {
+            "ident": "ANTEBY",
+            "tytul": "Analiza techniczna dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2012-03-16"
+        },
+        {
+            "ident": "ASEBY4",
+            "tytul": "Analiza statystyczna w Excelu dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "528",
+            "datawydania": "2020-03-06"
+        },
+        {
+            "ident": "ASTRON",
+            "tytul": "Astronomia dla bystrzak\u00f3w",
+            "liczbastron": "312",
+            "datawydania": "2010-08-06"
+        },
+        {
+            "ident": "BIBLBY",
+            "tytul": "Biblia dla bystrzak\u00f3w",
+            "liczbastron": "472",
+            "datawydania": "2019-06-11"
+        },
+        {
+            "ident": "BIOBY2",
+            "tytul": "Biologia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "368",
+            "datawydania": "2017-08-17"
+        },
+        {
+            "ident": "BIZNBY",
+            "tytul": "Tworzenie biznesplanu dla bystrzak\u00f3w",
+            "liczbastron": "416",
+            "datawydania": "2009-03-18"
+        },
+        {
+            "ident": "BIZUBY",
+            "tytul": "Bi\u017cuteria i koraliki dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "392",
+            "datawydania": "2014-08-27"
+        },
+        {
+            "ident": "BUDBY2",
+            "tytul": "Buddyzm dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "376",
+            "datawydania": "2019-08-27"
+        },
+        {
+            "ident": "BUPEBY",
+            "tytul": "Budowanie pewno\u015bci siebie dla bystrzak\u00f3w",
+            "liczbastron": "280",
+            "datawydania": "2009-03-18"
+        },
+        {
+            "ident": "CBEX21",
+            "tytul": "Excel 2010 PL. \u0106wiczenia praktyczne dla bystrzak\u00f3w",
+            "liczbastron": "232",
+            "datawydania": "2011-01-31"
+        },
+        {
+            "ident": "CHAPSA",
+            "tytul": "Charakter psa dla bystrzak\u00f3w",
+            "liczbastron": "288",
+            "datawydania": "2009-03-18"
+        },
+        {
+            "ident": "CHEM2V",
+            "tytul": "Chemia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "344",
+            "datawydania": "2015-09-17"
+        },
+        {
+            "ident": "CHINBY",
+            "tytul": "Chi\u0144ski dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2013-10-21"
+        },
+        {
+            "ident": "CIAZA",
+            "tytul": "Ci\u0105\u017ca dla bystrzak\u00f3w",
+            "liczbastron": "456",
+            "datawydania": "2007-10-22"
+        },
+        {
+            "ident": "CIAZAB",
+            "tytul": "Ci\u0105\u017ca dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "368",
+            "datawydania": "2014-02-14"
+        },
+        {
+            "ident": "CIAZB4",
+            "tytul": "Ci\u0105\u017ca dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "424",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "COAMB2",
+            "tytul": "Coaching i mentoring biznesowy dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "416",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "CPPBY7",
+            "tytul": "C++ dla bystrzak\u00f3w. Wydanie VII",
+            "liczbastron": "464",
+            "datawydania": "2020-01-31"
+        },
+        {
+            "ident": "CWGIBY",
+            "tytul": "\u0106wiczenia na gitar\u0119 dla bystrzak\u00f3w",
+            "liczbastron": "240",
+            "datawydania": "2011-07-04"
+        },
+        {
+            "ident": "DETOBY",
+            "tytul": "Detoks dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2017-09-20"
+        },
+        {
+            "ident": "DIKEBY",
+            "tytul": "Dieta keto dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2021-07-06"
+        },
+        {
+            "ident": "DOSPAM",
+            "tytul": "Doskonalenie pami\u0119ci dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2008-07-28"
+        },
+        {
+            "ident": "DROBYS",
+            "tytul": "Drony dla bystrzak\u00f3w",
+            "liczbastron": "256",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "E13PVB",
+            "tytul": "Excel 2013 PL. Programowanie w VBA dla bystrzak\u00f3w",
+            "liczbastron": "400",
+            "datawydania": "2014-02-10"
+        },
+        {
+            "ident": "EFZCB2",
+            "tytul": "Efektywne zarz\u0105dzanie czasem dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "344",
+            "datawydania": ""
+        },
+        {
+            "ident": "EKOBY2",
+            "tytul": "Ekonomia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "368",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "EKOBY3",
+            "tytul": "Ekonomia dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "448",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "EKONOM",
+            "tytul": "Ekonomia dla bystrzak\u00f3w",
+            "liczbastron": "448",
+            "datawydania": "2008-07-18"
+        },
+        {
+            "ident": "ELEB3V",
+            "tytul": "Elektronika dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "368",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "ELEBYS",
+            "tytul": "Elektronika dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "360",
+            "datawydania": "2011-11-14"
+        },
+        {
+            "ident": "EPVBB5",
+            "tytul": "Excel. Programowanie w VBA dla bystrzak\u00f3w. Wydanie V",
+            "liczbastron": "416",
+            "datawydania": "2020-06-15"
+        },
+        {
+            "ident": "EX21BY",
+            "tytul": "Excel 2010 PL dla bystrzak\u00f3w",
+            "liczbastron": "350",
+            "datawydania": "2011-01-24"
+        },
+        {
+            "ident": "EXCE27",
+            "tytul": "Excel 2007 PL dla bystrzak\u00f3w",
+            "liczbastron": "432",
+            "datawydania": "2008-01-09"
+        },
+        {
+            "ident": "FENSHU",
+            "tytul": "Feng shui dla bystrzak\u00f3w",
+            "liczbastron": "464",
+            "datawydania": "2008-05-16"
+        },
+        {
+            "ident": "FILOBV",
+            "tytul": "Filozofia dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2015-09-17"
+        },
+        {
+            "ident": "FOCBYS",
+            "tytul": "Fotografia cyfrowa dla bystrzak\u00f3w. Wydanie V ",
+            "liczbastron": "400",
+            "datawydania": "2009-04-20"
+        },
+        {
+            "ident": "FOREB2",
+            "tytul": "FOREX dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2012-09-14"
+        },
+        {
+            "ident": "FOREBV",
+            "tytul": "FOREX dla bystrzak\u00f3w",
+            "liczbastron": "352",
+            "datawydania": "2009-11-26"
+        },
+        {
+            "ident": "FORMUL",
+            "tytul": "Formu\u0142a 1 dla bystrzak\u00f3w",
+            "liczbastron": "408",
+            "datawydania": "2007-10-15"
+        },
+        {
+            "ident": "FRA2VV",
+            "tytul": "Francuski dla bystrzak\u00f3w. Wydanie II ",
+            "liczbastron": "288",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "FRANBV",
+            "tytul": "Francuski dla bystrzak\u00f3w",
+            "liczbastron": "288",
+            "datawydania": "2010-12-09"
+        },
+        {
+            "ident": "FRSZBY",
+            "tytul": "Francuski dla bystrzak\u00f3w. Poziom \u015brednio zaawansowany",
+            "liczbastron": "368",
+            "datawydania": "2016-11-18"
+        },
+        {
+            "ident": "GENBY2",
+            "tytul": "Genetyka dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "408",
+            "datawydania": "2017-11-13"
+        },
+        {
+            "ident": "GIBASB",
+            "tytul": "Gitara basowa dla bystrzak\u00f3w",
+            "liczbastron": "296",
+            "datawydania": "2014-02-10"
+        },
+        {
+            "ident": "GIKLBY",
+            "tytul": "Gitara klasyczna dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2011-07-04"
+        },
+        {
+            "ident": "GITABV",
+            "tytul": "Gitara dla bystrzak\u00f3w",
+            "liczbastron": "448",
+            "datawydania": "2008-01-10"
+        },
+        {
+            "ident": "GITBY3",
+            "tytul": "Gitara dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "384",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "GITBY4",
+            "tytul": "Gitara dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "400",
+            "datawydania": "2019-09-03"
+        },
+        {
+            "ident": "GITROC",
+            "tytul": "Gitara rockowa dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2010-08-06"
+        },
+        {
+            "ident": "GOTGE2",
+            "tytul": "Gotowanie dla geek\u00f3w. Wydanie II",
+            "liczbastron": "462",
+            "datawydania": "2019-10-01"
+        },
+        {
+            "ident": "GPWBYS",
+            "tytul": "Gie\u0142da Papier\u00f3w Warto\u015bciowych dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2015-01-14"
+        },
+        {
+            "ident": "GRANBY",
+            "tytul": "Gramatyka angielska dla bystrzak\u00f3w",
+            "liczbastron": "312",
+            "datawydania": "2010-08-26"
+        },
+        {
+            "ident": "GRILBY",
+            "tytul": "Grillowanie dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "328",
+            "datawydania": "2010-04-19"
+        },
+        {
+            "ident": "HIB2VV",
+            "tytul": "Hiszpa\u0144ski dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "336",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "HISSBY",
+            "tytul": "Hiszpa\u0144ski dla bystrzak\u00f3w. Poziom \u015brednio zaawansowany",
+            "liczbastron": "360",
+            "datawydania": "2017-08-21"
+        },
+        {
+            "ident": "HISZBV",
+            "tytul": "Hiszpa\u0144ski dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2010-12-09"
+        },
+        {
+            "ident": "HISZP4",
+            "tytul": "Hiszpania dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "752",
+            "datawydania": "2008-04-02"
+        },
+        {
+            "ident": "HISZTV",
+            "tytul": "Historia sztuki dla bystrzak\u00f3w",
+            "liczbastron": "488",
+            "datawydania": "2008-09-24"
+        },
+        {
+            "ident": "HOASTR",
+            "tytul": "Horoskop astrologiczny dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "480",
+            "datawydania": "2007-10-22"
+        },
+        {
+            "ident": "INEMBY",
+            "tytul": "Inteligencja emocjonalna dla bystrzak\u00f3w",
+            "liczbastron": "304",
+            "datawydania": "2011-07-04"
+        },
+        {
+            "ident": "INWAB2",
+            "tytul": "Inwestycje walutowe dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "408",
+            "datawydania": "2015-12-18"
+        },
+        {
+            "ident": "INWAB3",
+            "tytul": "Inwestycje walutowe dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "416",
+            "datawydania": "2020-09-15"
+        },
+        {
+            "ident": "IRLAN4",
+            "tytul": "Irlandia dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "624",
+            "datawydania": "2008-04-02"
+        },
+        {
+            "ident": "JAKOBY",
+            "tytul": "Jazda konna dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "JAVBY7",
+            "tytul": "Java dla bystrzak\u00f3w. Wydanie VII",
+            "liczbastron": "472",
+            "datawydania": "2020-02-03"
+        },
+        {
+            "ident": "JESWAR",
+            "tytul": "Jeste\u015b warto\u015bciowa! 10-tygodniowy trening doceniania siebie",
+            "liczbastron": "192",
+            "datawydania": "2019-07-16"
+        },
+        {
+            "ident": "JOGABY",
+            "tytul": "Joga dla bystrzak\u00f3w",
+            "liczbastron": "368",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "JSDZBY",
+            "tytul": "JavaScript dla dzieci dla bystrzak\u00f3w",
+            "liczbastron": "302",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "KARTY",
+            "tytul": "Gry karciane dla bystrzak\u00f3w",
+            "liczbastron": "472",
+            "datawydania": "2007-10-22"
+        },
+        {
+            "ident": "KOMPCB",
+            "tytul": "Komputery PC dla bystrzak\u00f3w",
+            "liczbastron": "432",
+            "datawydania": "2009-03-19"
+        },
+        {
+            "ident": "KOSEBY",
+            "tytul": "Komputer dla senior\u00f3w. Informatyka dla bystrzak\u00f3w ",
+            "liczbastron": "384",
+            "datawydania": "2009-03-20"
+        },
+        {
+            "ident": "KOTY",
+            "tytul": "Koty dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "432",
+            "datawydania": "2008-05-16"
+        },
+        {
+            "ident": "KREMYV",
+            "tytul": "Kreatywne my\u015blenie dla bystrzak\u00f3w",
+            "liczbastron": "344",
+            "datawydania": "2015-01-14"
+        },
+        {
+            "ident": "KUCHBE",
+            "tytul": "Kuchnia bez cholesterolu dla bystrzak\u00f3w",
+            "liczbastron": "456",
+            "datawydania": "2008-01-10"
+        },
+        {
+            "ident": "KUPIBY",
+            "tytul": "Kurs pisania powie\u015bci dla bystrzak\u00f3w",
+            "liczbastron": "352",
+            "datawydania": "2016-09-19"
+        },
+        {
+            "ident": "LEANBV",
+            "tytul": "Lean dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "360",
+            "datawydania": "2015-01-19"
+        },
+        {
+            "ident": "LOGIBY",
+            "tytul": "Logika dla bystrzak\u00f3w",
+            "liczbastron": "352",
+            "datawydania": "2017-11-13"
+        },
+        {
+            "ident": "LONDY4",
+            "tytul": "Londyn dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "464",
+            "datawydania": "2008-04-04"
+        },
+        {
+            "ident": "MARABY",
+            "tytul": "Maraton dla bystrzak\u00f3w",
+            "liczbastron": "256",
+            "datawydania": "2012-05-25"
+        },
+        {
+            "ident": "MARBY5",
+            "tytul": "Marketing dla bystrzak\u00f3w. Wydanie V",
+            "liczbastron": "448",
+            "datawydania": "2020-02-10"
+        },
+        {
+            "ident": "MEDYB4",
+            "tytul": "Medytacja dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "408",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "MENTZZ",
+            "tytul": "Mentoring. Z\u0142ote zasady",
+            "liczbastron": "320",
+            "datawydania": "2019-04-23"
+        },
+        {
+            "ident": "MIGREN",
+            "tytul": "Migrena dla bystrzak\u00f3w",
+            "liczbastron": "400",
+            "datawydania": "2007-10-16"
+        },
+        {
+            "ident": "MIKRBY",
+            "tytul": "Mikroekonomia dla bystrzak\u00f3w",
+            "liczbastron": "352",
+            "datawydania": "2017-11-13"
+        },
+        {
+            "ident": "MIMOMB",
+            "tytul": "Minecraft. Modyfikacje dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2017-09-20"
+        },
+        {
+            "ident": "MINDB2",
+            "tytul": "Mindfulness dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "360",
+            "datawydania": "2019-03-12"
+        },
+        {
+            "ident": "MINEBY",
+            "tytul": "Minecraft dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2016-01-22"
+        },
+        {
+            "ident": "MKBY2V",
+            "tytul": "Muzyka klasyczna dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "344",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "MOBIBY",
+            "tytul": "Modele biznesowe dla bystrzak\u00f3w",
+            "liczbastron": "400",
+            "datawydania": "2018-03-09"
+        },
+        {
+            "ident": "MOCIA3",
+            "tytul": "Mowa cia\u0142a dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "296",
+            "datawydania": "2016-09-19"
+        },
+        {
+            "ident": "MOCIAB",
+            "tytul": "Mowa cia\u0142a dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2008-07-21"
+        },
+        {
+            "ident": "MYSLIN",
+            "tytul": "My\u015bl jak in\u017cynier. Projekty techniczne dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2018-01-23"
+        },
+        {
+            "ident": "NADCBY",
+            "tytul": "Nadci\u015bnienie dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2008-09-24"
+        },
+        {
+            "ident": "NAKOBY",
+            "tytul": "Naprawa i konserwacja rower\u00f3w dla bystrzak\u00f3w",
+            "liczbastron": "344",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "NEGOC2",
+            "tytul": "Negocjacje dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "416",
+            "datawydania": "2008-07-21"
+        },
+        {
+            "ident": "NIBYSZ",
+            "tytul": "Niemiecki dla bystrzak\u00f3w. Poziom \u015brednio zaawansowany",
+            "liczbastron": "368",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "NIE2VV",
+            "tytul": "Niemiecki dla bystrzak\u00f3w. Wydanie II ",
+            "liczbastron": "296",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "NIEMBV",
+            "tytul": "Niemiecki dla bystrzak\u00f3w",
+            "liczbastron": "296",
+            "datawydania": "2010-12-09"
+        },
+        {
+            "ident": "NLPBY2",
+            "tytul": "NLP dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "NLPBY3",
+            "tytul": "NLP dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "424",
+            "datawydania": "2020-01-28"
+        },
+        {
+            "ident": "NLPBYS",
+            "tytul": "NLP dla bystrzak\u00f3w",
+            "liczbastron": "344",
+            "datawydania": "2008-07-14"
+        },
+        {
+            "ident": "OGROD",
+            "tytul": "Ogrodnictwo dla bystrzak\u00f3w",
+            "liczbastron": "456",
+            "datawydania": "2008-01-09"
+        },
+        {
+            "ident": "OPMEBY",
+            "tytul": "Sprawny metabolizm dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2017-09-20"
+        },
+        {
+            "ident": "OPTYDV",
+            "tytul": "Optymalna dieta dla biegaczy. Jedz zdrowo i biegnij po sukces",
+            "liczbastron": "232",
+            "datawydania": "2015-05-15"
+        },
+        {
+            "ident": "PARYZ4",
+            "tytul": "Pary\u017c dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "488",
+            "datawydania": "2008-04-02"
+        },
+        {
+            "ident": "PIANBY",
+            "tytul": "Instrumenty klawiszowe dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2011-07-04"
+        },
+        {
+            "ident": "PILATE",
+            "tytul": "Pilates dla bystrzak\u00f3w",
+            "liczbastron": "400",
+            "datawydania": "2007-10-15"
+        },
+        {
+            "ident": "PODMBY",
+            "tytul": "Podstawy programowania dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2019-03-05"
+        },
+        {
+            "ident": "POKERB",
+            "tytul": "Poker dla bystrzak\u00f3w",
+            "liczbastron": "288",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "POWBYS",
+            "tytul": "Poczucie w\u0142asnej warto\u015bci dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "352",
+            "datawydania": "2016-11-18"
+        },
+        {
+            "ident": "PRINBY",
+            "tytul": "Fotowoltaika. Projektowanie i instalowanie dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": ""
+        },
+        {
+            "ident": "PRO13B",
+            "tytul": "MS Project 2013 dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2015-01-19"
+        },
+        {
+            "ident": "PROEBY",
+            "tytul": "Projekty elektroniczne dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2015-06-08"
+        },
+        {
+            "ident": "PRPYB2",
+            "tytul": "Programowanie w Pythonie dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "416",
+            "datawydania": "2020-02-03"
+        },
+        {
+            "ident": "PRZYBY",
+            "tytul": "Przyw\u00f3dztwo dla bystrzak\u00f3w",
+            "liczbastron": "368",
+            "datawydania": "2008-07-07"
+        },
+        {
+            "ident": "PSSPBY",
+            "tytul": "Psychologia sportu dla bystrzak\u00f3w",
+            "liczbastron": "304",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "PSYB2V",
+            "tytul": "Psychologia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2018-12-17"
+        },
+        {
+            "ident": "PSYCHO",
+            "tytul": "Psychologia dla bystrzak\u00f3w",
+            "liczbastron": "424",
+            "datawydania": "2007-10-12"
+        },
+        {
+            "ident": "REIKIO",
+            "tytul": "Reiki. Odkryj moc zdrowia",
+            "liczbastron": "272",
+            "datawydania": "2019-06-04"
+        },
+        {
+            "ident": "REMIBY",
+            "tytul": "Receptury w Minecrafcie dla bystrzak\u00f3w",
+            "liczbastron": "160",
+            "datawydania": "2016-03-21"
+        },
+        {
+            "ident": "ROBREC",
+            "tytul": "Rob\u00f3tki r\u0119czne dla bystrzak\u00f3w",
+            "liczbastron": "432",
+            "datawydania": "2007-10-16"
+        },
+        {
+            "ident": "ROCZEK",
+            "tytul": "Pierwszy rok dziecka dla bystrzak\u00f3w",
+            "liczbastron": "440",
+            "datawydania": "2007-10-16"
+        },
+        {
+            "ident": "RODZBY",
+            "tytul": "Rodzicielstwo dla bystrzak\u00f3w",
+            "liczbastron": "408",
+            "datawydania": "2009-03-25"
+        },
+        {
+            "ident": "RODZIC",
+            "tytul": "Rodzic najlepszy pod s\u0142o\u0144cem. Cztery kroki do szcz\u0119\u015bliwego dzieci\u0144stwa Twojego dziecka",
+            "liczbastron": "232",
+            "datawydania": "2019-06-18"
+        },
+        {
+            "ident": "ROFRBY",
+            "tytul": "Rozm\u00f3wki francuskie dla bystrzak\u00f3w",
+            "liczbastron": "168",
+            "datawydania": "2018-06-11"
+        },
+        {
+            "ident": "ROKWBY",
+            "tytul": "Rozmowa kwalifikacyjna dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "296",
+            "datawydania": "2011-07-04"
+        },
+        {
+            "ident": "RONIBY",
+            "tytul": "Rozm\u00f3wki niemieckie dla bystrzak\u00f3w",
+            "liczbastron": "168",
+            "datawydania": "2018-06-11"
+        },
+        {
+            "ident": "ROROBY",
+            "tytul": "Rozm\u00f3wki rosyjskie dla bystrzak\u00f3w",
+            "liczbastron": "160",
+            "datawydania": "2018-06-11"
+        },
+        {
+            "ident": "ROS2VV",
+            "tytul": "Rosyjski dla bystrzak\u00f3w. Wydanie II ",
+            "liczbastron": "312",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "ROSYBY",
+            "tytul": "Rosyjski dla bystrzak\u00f3w ",
+            "liczbastron": "312",
+            "datawydania": "2008-10-14"
+        },
+        {
+            "ident": "ROWLBY",
+            "tytul": "Rozm\u00f3wki w\u0142oskie dla bystrzak\u00f3w",
+            "liczbastron": "168",
+            "datawydania": "2018-06-11"
+        },
+        {
+            "ident": "RTGIBY",
+            "tytul": "Rytm i technika gry na gitarze dla bystrzak\u00f3w",
+            "liczbastron": "216",
+            "datawydania": "2017-01-16"
+        },
+        {
+            "ident": "RYSOBY",
+            "tytul": "Rysowanie dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2008-09-24"
+        },
+        {
+            "ident": "RZUPAL",
+            "tytul": "Rzu\u0107 palenie dla bystrzak\u00f3w",
+            "liczbastron": "408",
+            "datawydania": "2007-10-12"
+        },
+        {
+            "ident": "RZYM",
+            "tytul": "Rzym dla bystrzak\u00f3w",
+            "liczbastron": "392",
+            "datawydania": "2008-04-02"
+        },
+        {
+            "ident": "SEKPCC",
+            "tytul": "Sekrety cyfrowej ciemni Scotta Kelby'ego. Edycja i obr\u00f3bka zdj\u0119\u0107 w programie Adobe Photoshop Lightroom Classic CC",
+            "liczbastron": "464",
+            "datawydania": "2019-06-25"
+        },
+        {
+            "ident": "SEKSBY",
+            "tytul": "Seks dla bystrzak\u00f3w",
+            "liczbastron": "384",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "SIEB11",
+            "tytul": "Sieci komputerowe dla bystrzak\u00f3w. Wydanie XI",
+            "liczbastron": "464",
+            "datawydania": "2019-10-29"
+        },
+        {
+            "ident": "SLEEP",
+            "tytul": "Problemy ze snem dla bystrzak\u00f3w",
+            "liczbastron": "408",
+            "datawydania": "2007-10-16"
+        },
+        {
+            "ident": "SOCJOB",
+            "tytul": "Socjologia dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2017-11-13"
+        },
+        {
+            "ident": "STABY2",
+            "tytul": "Statystyka dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "368",
+            "datawydania": "2016-09-19"
+        },
+        {
+            "ident": "SZACHB",
+            "tytul": "Szachy dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "376",
+            "datawydania": "2008-07-21"
+        },
+        {
+            "ident": "SZINBY",
+            "tytul": "Sztuczna inteligencja dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2021-03-11"
+        },
+        {
+            "ident": "SZKOBY",
+            "tytul": "Sztuka komunikacji dla bystrzak\u00f3w",
+            "liczbastron": "144",
+            "datawydania": "2017-08-30"
+        },
+        {
+            "ident": "TAOBYS",
+            "tytul": "Taoizm dla bystrzak\u00f3w",
+            "liczbastron": "392",
+            "datawydania": "2019-03-12"
+        },
+        {
+            "ident": "TEMUB4",
+            "tytul": "Teoria muzyki dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "304",
+            "datawydania": "2021-06-08"
+        },
+        {
+            "ident": "TEMUBY",
+            "tytul": "Teoria muzyki dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "280",
+            "datawydania": "2014-08-14"
+        },
+        {
+            "ident": "TENIS",
+            "tytul": "Tenis dla bystrzak\u00f3w",
+            "liczbastron": "440",
+            "datawydania": "2008-05-16"
+        },
+        {
+            "ident": "TREPSO",
+            "tytul": "Trening ps\u00f3w dla bystrzak\u00f3w",
+            "liczbastron": "392",
+            "datawydania": "2008-09-24"
+        },
+        {
+            "ident": "TRESBY",
+            "tytul": "Trening si\u0142owy dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "392",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "TREUBV",
+            "tytul": "Trening umys\u0142u dla bystrzak\u00f3w",
+            "liczbastron": "232",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "WINOBY",
+            "tytul": "Wino dla bystrzak\u00f3w",
+            "liczbastron": "440",
+            "datawydania": "2008-09-24"
+        },
+        {
+            "ident": "WIVIBY",
+            "tytul": "Windows Vista PL dla bystrzak\u00f3w",
+            "liczbastron": "520",
+            "datawydania": "2008-09-17"
+        },
+        {
+            "ident": "WLJEZV",
+            "tytul": "W\u0142adca J\u0119zyk\u00f3w, czyli prawie wszystko o tym, jak zosta\u0107 poliglot\u0105",
+            "liczbastron": "376",
+            "datawydania": "2014-01-13"
+        },
+        {
+            "ident": "WLOB2V",
+            "tytul": "W\u0142oski dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "320",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "WLOCH4",
+            "tytul": "W\u0142ochy dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "744",
+            "datawydania": "2008-04-02"
+        },
+        {
+            "ident": "WLOSBV",
+            "tytul": "W\u0142oski dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2010-12-09"
+        },
+        {
+            "ident": "WLOSBY",
+            "tytul": "W\u0142oski dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2008-10-14"
+        },
+        {
+            "ident": "WO27BY",
+            "tytul": "Word 2007 PL dla bystrzak\u00f3w",
+            "liczbastron": "368",
+            "datawydania": "2009-12-15"
+        },
+        {
+            "ident": "WYSZB3",
+            "tytul": "Wychowanie szczeni\u0105t dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "360",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "ZAPRB5",
+            "tytul": "Zarz\u0105dzanie projektami dla bystrzak\u00f3w. Wydanie V",
+            "liczbastron": "424",
+            "datawydania": "2019-05-20"
+        },
+        {
+            "ident": "ZAPRBY",
+            "tytul": "Zarz\u0105dzanie projektami dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "ZAPROB",
+            "tytul": "Zarz\u0105dzanie produktem dla bystrzak\u00f3w",
+            "liczbastron": "384",
+            "datawydania": "2020-01-28"
+        },
+        {
+            "ident": "ZAPSZE",
+            "tytul": "Zapytaj szefa. Jak si\u0119 dogada\u0107 w trudnych sytuacjach z prze\u0142o\u017conym, podw\u0142adnymi i kolegami z dzia\u0142u",
+            "liczbastron": "264",
+            "datawydania": "2019-03-26"
+        },
+        {
+            "ident": "ZAZBY3",
+            "tytul": "Zarz\u0105dzanie dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "328",
+            "datawydania": "2016-09-19"
+        },
+        {
+            "ident": "ZAZBYS",
+            "tytul": "Zarz\u0105dzanie dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "376",
+            "datawydania": "2008-07-21"
+        },
+        {
+            "ident": "ZEGLBY",
+            "tytul": "\u017beglarstwo dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "400",
+            "datawydania": "2008-07-21"
+        },
+        {
+            "ident": "ZOGWYT",
+            "tytul": "Zosta\u0144 gwiazd\u0105 YouTube'a. Tw\u00f3rz najlepsze filmy wideo! Dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2018-01-12"
+        },
+        {
+            "ident": "AKGIBY_EBOOK",
+            "tytul": "Akordy gitarowe dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2016-09-19"
+        },
+        {
+            "ident": "AKWABY_EBOOK",
+            "tytul": "Akwarium s\u0142odkowodne dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "ALGOBY_EBOOK",
+            "tytul": "Algorytmy dla bystrzak\u00f3w",
+            "liczbastron": "424",
+            "datawydania": "2020-01-31"
+        },
+        {
+            "ident": "ANFIBY_EBOOK",
+            "tytul": "Anatomia i fizjologia dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "ANGBYS_EBOOK",
+            "tytul": "Angielski dla bystrzak\u00f3w",
+            "liczbastron": "325",
+            "datawydania": "2017-08-30"
+        },
+        {
+            "ident": "ANTEB4_EBOOK",
+            "tytul": "Analiza techniczna dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "368",
+            "datawydania": "2021-03-09"
+        },
+        {
+            "ident": "ANTEBY_EBOOK",
+            "tytul": "Analiza techniczna dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2012-08-30"
+        },
+        {
+            "ident": "ASEBY4_EBOOK",
+            "tytul": "Analiza statystyczna w Excelu dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "528",
+            "datawydania": "2020-02-25"
+        },
+        {
+            "ident": "ASTRON_EBOOK",
+            "tytul": "Astronomia dla bystrzak\u00f3w",
+            "liczbastron": "312",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "BIBLBY_EBOOK",
+            "tytul": "Biblia dla bystrzak\u00f3w",
+            "liczbastron": "472",
+            "datawydania": "2019-06-11"
+        },
+        {
+            "ident": "BIOBY2_EBOOK",
+            "tytul": "Biologia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "368",
+            "datawydania": "2017-08-17"
+        },
+        {
+            "ident": "BIZNBY_EBOOK",
+            "tytul": "Tworzenie biznesplanu dla bystrzak\u00f3w",
+            "liczbastron": "416",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "BIZUBY_EBOOK",
+            "tytul": "Bi\u017cuteria i koraliki dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "392",
+            "datawydania": "2014-09-02"
+        },
+        {
+            "ident": "BUDBY2_EBOOK",
+            "tytul": "Buddyzm dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "376",
+            "datawydania": "2019-08-27"
+        },
+        {
+            "ident": "BUPEBY_EBOOK",
+            "tytul": "Budowanie pewno\u015bci siebie dla bystrzak\u00f3w",
+            "liczbastron": "280",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "CBEX21_EBOOK",
+            "tytul": "Excel 2010 PL. \u0106wiczenia praktyczne dla bystrzak\u00f3w",
+            "liczbastron": "232",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "CHAPSA_EBOOK",
+            "tytul": "Charakter psa dla bystrzak\u00f3w",
+            "liczbastron": "288",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "CHEM2V_EBOOK",
+            "tytul": "Chemia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "344",
+            "datawydania": "2015-09-17"
+        },
+        {
+            "ident": "CHINBY_EBOOK",
+            "tytul": "Chi\u0144ski dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2013-10-20"
+        },
+        {
+            "ident": "CIAZAB_EBOOK",
+            "tytul": "Ci\u0105\u017ca dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "368",
+            "datawydania": "2014-02-10"
+        },
+        {
+            "ident": "CIAZB4_3",
+            "tytul": "Ci\u0105\u017ca dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "424",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "CIAZB4_EBOOK",
+            "tytul": "Ci\u0105\u017ca dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "424",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "COAMB2_EBOOK",
+            "tytul": "Coaching i mentoring biznesowy dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "416",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "CPPBY7_EBOOK",
+            "tytul": "C++ dla bystrzak\u00f3w. Wydanie VII",
+            "liczbastron": "464",
+            "datawydania": "2020-01-31"
+        },
+        {
+            "ident": "CWGIBY_EBOOK",
+            "tytul": "\u0106wiczenia na gitar\u0119 dla bystrzak\u00f3w",
+            "liczbastron": "240",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "DETOBY_EBOOK",
+            "tytul": "Detoks dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2017-09-20"
+        },
+        {
+            "ident": "DIKEBY_EBOOK",
+            "tytul": "Dieta keto dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2021-07-06"
+        },
+        {
+            "ident": "DROBYS_EBOOK",
+            "tytul": "Drony dla bystrzak\u00f3w",
+            "liczbastron": "256",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "E13PVB_EBOOK",
+            "tytul": "Excel 2013 PL. Programowanie w VBA dla bystrzak\u00f3w",
+            "liczbastron": "400",
+            "datawydania": "2014-02-10"
+        },
+        {
+            "ident": "EKOBY2_EBOOK",
+            "tytul": "Ekonomia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "368",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "EKOBY3_3",
+            "tytul": "Ekonomia dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "448",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "EKOBY3_EBOOK",
+            "tytul": "Ekonomia dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "448",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "ELEB3V_EBOOK",
+            "tytul": "Elektronika dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "368",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "ELEBYS_EBOOK",
+            "tytul": "Elektronika dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "360",
+            "datawydania": "2012-10-16"
+        },
+        {
+            "ident": "EPVBB5_EBOOK",
+            "tytul": "Excel. Programowanie w VBA dla bystrzak\u00f3w. Wydanie V",
+            "liczbastron": "416",
+            "datawydania": "2020-06-15"
+        },
+        {
+            "ident": "EX21BY_EBOOK",
+            "tytul": "Excel 2010 PL dla bystrzak\u00f3w",
+            "liczbastron": "350",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "FILOBV_EBOOK",
+            "tytul": "Filozofia dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2015-09-17"
+        },
+        {
+            "ident": "FOCBYS_EBOOK",
+            "tytul": "Fotografia cyfrowa dla bystrzak\u00f3w. Wydanie V ",
+            "liczbastron": "400",
+            "datawydania": "2013-04-24"
+        },
+        {
+            "ident": "FOREB2_EBOOK",
+            "tytul": "FOREX dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2012-12-21"
+        },
+        {
+            "ident": "FRA2VV_EBOOK",
+            "tytul": "Francuski dla bystrzak\u00f3w. Wydanie II ",
+            "liczbastron": "288",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "FRSZBY_EBOOK",
+            "tytul": "Francuski dla bystrzak\u00f3w. Poziom \u015brednio zaawansowany",
+            "liczbastron": "368",
+            "datawydania": "2016-11-18"
+        },
+        {
+            "ident": "GENBY2_EBOOK",
+            "tytul": "Genetyka dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "408",
+            "datawydania": "2017-11-10"
+        },
+        {
+            "ident": "GIBASB_EBOOK",
+            "tytul": "Gitara basowa dla bystrzak\u00f3w",
+            "liczbastron": "296",
+            "datawydania": "2014-02-10"
+        },
+        {
+            "ident": "GIKLBY_EBOOK",
+            "tytul": "Gitara klasyczna dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "GITBY3_EBOOK",
+            "tytul": "Gitara dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "384",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "GITBY4_EBOOK",
+            "tytul": "Gitara dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "400",
+            "datawydania": "2019-09-03"
+        },
+        {
+            "ident": "GITROC_EBOOK",
+            "tytul": "Gitara rockowa dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "GOTGE2_EBOOK",
+            "tytul": "Gotowanie dla geek\u00f3w. Wydanie II",
+            "liczbastron": "462",
+            "datawydania": "2019-10-01"
+        },
+        {
+            "ident": "GPWBYS_EBOOK",
+            "tytul": "Gie\u0142da Papier\u00f3w Warto\u015bciowych dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2015-01-18"
+        },
+        {
+            "ident": "GRANBY_EBOOK",
+            "tytul": "Gramatyka angielska dla bystrzak\u00f3w",
+            "liczbastron": "312",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "GRILBY_EBOOK",
+            "tytul": "Grillowanie dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "328",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "HIB2VV_EBOOK",
+            "tytul": "Hiszpa\u0144ski dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "336",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "HISSBY_EBOOK",
+            "tytul": "Hiszpa\u0144ski dla bystrzak\u00f3w. Poziom \u015brednio zaawansowany",
+            "liczbastron": "360",
+            "datawydania": "2017-08-21"
+        },
+        {
+            "ident": "HISZTU_EBOOK",
+            "tytul": "Historia sztuki dla bystrzak\u00f3w",
+            "liczbastron": "512",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "INEMBY_EBOOK",
+            "tytul": "Inteligencja emocjonalna dla bystrzak\u00f3w",
+            "liczbastron": "304",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "INWAB2_EBOOK",
+            "tytul": "Inwestycje walutowe dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "408",
+            "datawydania": "2016-01-05"
+        },
+        {
+            "ident": "INWAB3_EBOOK",
+            "tytul": "Inwestycje walutowe dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "416",
+            "datawydania": ""
+        },
+        {
+            "ident": "JAKOBY_EBOOK",
+            "tytul": "Jazda konna dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "JAVBY7_EBOOK",
+            "tytul": "Java dla bystrzak\u00f3w. Wydanie VII",
+            "liczbastron": "472",
+            "datawydania": "2020-01-31"
+        },
+        {
+            "ident": "JESWAR_3",
+            "tytul": "Jeste\u015b warto\u015bciowa! 10-tygodniowy trening doceniania siebie",
+            "liczbastron": "192",
+            "datawydania": "2019-07-16"
+        },
+        {
+            "ident": "JESWAR_EBOOK",
+            "tytul": "Jeste\u015b warto\u015bciowa! 10-tygodniowy trening doceniania siebie",
+            "liczbastron": "192",
+            "datawydania": "2019-07-16"
+        },
+        {
+            "ident": "JOGABY_EBOOK",
+            "tytul": "Joga dla bystrzak\u00f3w",
+            "liczbastron": "368",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "JSDZBY_EBOOK",
+            "tytul": "JavaScript dla dzieci dla bystrzak\u00f3w",
+            "liczbastron": "302",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "KOMPCB_EBOOK",
+            "tytul": "Komputery PC dla bystrzak\u00f3w",
+            "liczbastron": "432",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "KOSEBY_EBOOK",
+            "tytul": "Komputer dla senior\u00f3w. Informatyka dla bystrzak\u00f3w ",
+            "liczbastron": "384",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "KREMYV_3",
+            "tytul": "Kreatywne my\u015blenie dla bystrzak\u00f3w",
+            "liczbastron": "344",
+            "datawydania": "2019-09-24"
+        },
+        {
+            "ident": "KREMYV_EBOOK",
+            "tytul": "Kreatywne my\u015blenie dla bystrzak\u00f3w",
+            "liczbastron": "344",
+            "datawydania": "2015-01-14"
+        },
+        {
+            "ident": "KUPIBY_EBOOK",
+            "tytul": "Kurs pisania powie\u015bci dla bystrzak\u00f3w",
+            "liczbastron": "352",
+            "datawydania": "2016-09-18"
+        },
+        {
+            "ident": "LEANBV_EBOOK",
+            "tytul": "Lean dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "360",
+            "datawydania": "2015-01-18"
+        },
+        {
+            "ident": "LEANBV_3",
+            "tytul": "Lean dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "360",
+            "datawydania": "2019-09-10"
+        },
+        {
+            "ident": "LOGIBY_EBOOK",
+            "tytul": "Logika dla bystrzak\u00f3w",
+            "liczbastron": "352",
+            "datawydania": "2017-11-10"
+        },
+        {
+            "ident": "MARABY_EBOOK",
+            "tytul": "Maraton dla bystrzak\u00f3w",
+            "liczbastron": "256",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "MARBY5_EBOOK",
+            "tytul": "Marketing dla bystrzak\u00f3w. Wydanie V",
+            "liczbastron": "448",
+            "datawydania": "2020-02-04"
+        },
+        {
+            "ident": "MEDYB4_EBOOK",
+            "tytul": "Medytacja dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "408",
+            "datawydania": "2020-01-21"
+        },
+        {
+            "ident": "MENTZZ_3",
+            "tytul": "Mentoring. Z\u0142ote zasady",
+            "liczbastron": "320",
+            "datawydania": "2019-11-19"
+        },
+        {
+            "ident": "MENTZZ_EBOOK",
+            "tytul": "Mentoring. Z\u0142ote zasady",
+            "liczbastron": "320",
+            "datawydania": "2019-04-23"
+        },
+        {
+            "ident": "MIKRBY_EBOOK",
+            "tytul": "Mikroekonomia dla bystrzak\u00f3w",
+            "liczbastron": "352",
+            "datawydania": "2017-11-10"
+        },
+        {
+            "ident": "MIMOMB_EBOOK",
+            "tytul": "Minecraft. Modyfikacje dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2017-09-20"
+        },
+        {
+            "ident": "MINDB2_EBOOK",
+            "tytul": "Mindfulness dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "360",
+            "datawydania": "2019-03-12"
+        },
+        {
+            "ident": "MINEBY_EBOOK",
+            "tytul": "Minecraft dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2016-01-22"
+        },
+        {
+            "ident": "MKBY2V_EBOOK",
+            "tytul": "Muzyka klasyczna dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "344",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "MOBIBY_EBOOK",
+            "tytul": "Modele biznesowe dla bystrzak\u00f3w",
+            "liczbastron": "400",
+            "datawydania": "2018-03-09"
+        },
+        {
+            "ident": "MOCIA3_EBOOK",
+            "tytul": "Mowa cia\u0142a dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "296",
+            "datawydania": "2016-09-18"
+        },
+        {
+            "ident": "MOCIAB_EBOOK",
+            "tytul": "Mowa cia\u0142a dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "MYSLIN_EBOOK",
+            "tytul": "My\u015bl jak in\u017cynier. Projekty techniczne dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2018-01-23"
+        },
+        {
+            "ident": "NADCBY_EBOOK",
+            "tytul": "Nadci\u015bnienie dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "NAKOBY_EBOOK",
+            "tytul": "Naprawa i konserwacja rower\u00f3w dla bystrzak\u00f3w",
+            "liczbastron": "344",
+            "datawydania": "2015-07-14"
+        },
+        {
+            "ident": "NEGOC2_EBOOK",
+            "tytul": "Negocjacje dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "416",
+            "datawydania": "2013-04-24"
+        },
+        {
+            "ident": "NIBYSZ_EBOOK",
+            "tytul": "Niemiecki dla bystrzak\u00f3w. Poziom \u015brednio zaawansowany",
+            "liczbastron": "368",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "NIE2VV_EBOOK",
+            "tytul": "Niemiecki dla bystrzak\u00f3w. Wydanie II ",
+            "liczbastron": "296",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "NIEMBY_EBOOK",
+            "tytul": "Niemiecki dla bystrzak\u00f3w ",
+            "liczbastron": "296",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "NLPBY2_EBOOK",
+            "tytul": "NLP dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "NLPBY3_EBOOK",
+            "tytul": "NLP dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "424",
+            "datawydania": "2020-01-28"
+        },
+        {
+            "ident": "OPMEBY_EBOOK",
+            "tytul": "Sprawny metabolizm dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2017-09-20"
+        },
+        {
+            "ident": "OPTYDV_EBOOK",
+            "tytul": "Optymalna dieta dla biegaczy. Jedz zdrowo i biegnij po sukces",
+            "liczbastron": "232",
+            "datawydania": "2015-05-19"
+        },
+        {
+            "ident": "PIANBY_EBOOK",
+            "tytul": "Instrumenty klawiszowe dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "PODMBY_EBOOK",
+            "tytul": "Podstawy programowania dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2019-03-05"
+        },
+        {
+            "ident": "POKERB_EBOOK",
+            "tytul": "Poker dla bystrzak\u00f3w",
+            "liczbastron": "288",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "POWBYS_EBOOK",
+            "tytul": "Poczucie w\u0142asnej warto\u015bci dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "352",
+            "datawydania": "2016-11-18"
+        },
+        {
+            "ident": "POWBYS_3",
+            "tytul": "Poczucie w\u0142asnej warto\u015bci dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "352",
+            "datawydania": "2020-01-14"
+        },
+        {
+            "ident": "PRO13B_EBOOK",
+            "tytul": "MS Project 2013 dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2015-01-18"
+        },
+        {
+            "ident": "PROEBY_EBOOK",
+            "tytul": "Projekty elektroniczne dla bystrzak\u00f3w",
+            "liczbastron": "376",
+            "datawydania": "2015-06-10"
+        },
+        {
+            "ident": "PRPYB2_EBOOK",
+            "tytul": "Programowanie w Pythonie dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "416",
+            "datawydania": "2020-01-31"
+        },
+        {
+            "ident": "PSSPBY_EBOOK",
+            "tytul": "Psychologia sportu dla bystrzak\u00f3w",
+            "liczbastron": "304",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "PSYB2V_EBOOK",
+            "tytul": "Psychologia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2018-12-17"
+        },
+        {
+            "ident": "PSYB2V_3",
+            "tytul": "Psychologia dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "352",
+            "datawydania": "2020-01-14"
+        },
+        {
+            "ident": "REIKIO_EBOOK",
+            "tytul": "Reiki. Odkryj moc zdrowia",
+            "liczbastron": "272",
+            "datawydania": "2019-06-04"
+        },
+        {
+            "ident": "REMIBY_EBOOK",
+            "tytul": "Receptury w Minecrafcie dla bystrzak\u00f3w",
+            "liczbastron": "160",
+            "datawydania": "2016-03-21"
+        },
+        {
+            "ident": "RODZBY_EBOOK",
+            "tytul": "Rodzicielstwo dla bystrzak\u00f3w",
+            "liczbastron": "408",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "RODZIC_3",
+            "tytul": "Rodzic najlepszy pod s\u0142o\u0144cem. Cztery kroki do szcz\u0119\u015bliwego dzieci\u0144stwa Twojego dziecka",
+            "liczbastron": "232",
+            "datawydania": "2020-12-28"
+        },
+        {
+            "ident": "RODZIC_EBOOK",
+            "tytul": "Rodzic najlepszy pod s\u0142o\u0144cem. Cztery kroki do szcz\u0119\u015bliwego dzieci\u0144stwa Twojego dziecka",
+            "liczbastron": "232",
+            "datawydania": "2019-06-18"
+        },
+        {
+            "ident": "ROFRBY_EBOOK",
+            "tytul": "Rozm\u00f3wki francuskie dla bystrzak\u00f3w",
+            "liczbastron": "168",
+            "datawydania": "2018-06-08"
+        },
+        {
+            "ident": "ROKWBY_EBOOK",
+            "tytul": "Rozmowa kwalifikacyjna dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "296",
+            "datawydania": "2013-04-24"
+        },
+        {
+            "ident": "RONIBY_EBOOK",
+            "tytul": "Rozm\u00f3wki niemieckie dla bystrzak\u00f3w",
+            "liczbastron": "168",
+            "datawydania": "2018-06-08"
+        },
+        {
+            "ident": "ROROBY_EBOOK",
+            "tytul": "Rozm\u00f3wki rosyjskie dla bystrzak\u00f3w",
+            "liczbastron": "160",
+            "datawydania": "2018-06-08"
+        },
+        {
+            "ident": "ROS2VV_EBOOK",
+            "tytul": "Rosyjski dla bystrzak\u00f3w. Wydanie II ",
+            "liczbastron": "312",
+            "datawydania": "2015-07-13"
+        },
+        {
+            "ident": "ROSYBY_EBOOK",
+            "tytul": "Rosyjski dla bystrzak\u00f3w ",
+            "liczbastron": "312",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "ROWLBY_EBOOK",
+            "tytul": "Rozm\u00f3wki w\u0142oskie dla bystrzak\u00f3w",
+            "liczbastron": "168",
+            "datawydania": "2018-06-08"
+        },
+        {
+            "ident": "RTGIBY_EBOOK",
+            "tytul": "Rytm i technika gry na gitarze dla bystrzak\u00f3w",
+            "liczbastron": "216",
+            "datawydania": "2017-01-15"
+        },
+        {
+            "ident": "RYSOBY_EBOOK",
+            "tytul": "Rysowanie dla bystrzak\u00f3w",
+            "liczbastron": "360",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "SEKPCC_EBOOK",
+            "tytul": "Sekrety cyfrowej ciemni Scotta Kelby'ego. Edycja i obr\u00f3bka zdj\u0119\u0107 w programie Adobe Photoshop Lightroom Classic CC",
+            "liczbastron": "464",
+            "datawydania": "2019-06-25"
+        },
+        {
+            "ident": "SEKSBY_EBOOK",
+            "tytul": "Seks dla bystrzak\u00f3w",
+            "liczbastron": "384",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "SIEB11_EBOOK",
+            "tytul": "Sieci komputerowe dla bystrzak\u00f3w. Wydanie XI",
+            "liczbastron": "464",
+            "datawydania": "2019-10-29"
+        },
+        {
+            "ident": "SOCJOB_EBOOK",
+            "tytul": "Socjologia dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2017-11-10"
+        },
+        {
+            "ident": "STABY2_EBOOK",
+            "tytul": "Statystyka dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "368",
+            "datawydania": "2016-09-18"
+        },
+        {
+            "ident": "SZINBY_EBOOK",
+            "tytul": "Sztuczna inteligencja dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2021-03-11"
+        },
+        {
+            "ident": "SZKOBY_3",
+            "tytul": "Sztuka komunikacji dla bystrzak\u00f3w",
+            "liczbastron": "144",
+            "datawydania": "2019-10-15"
+        },
+        {
+            "ident": "SZKOBY_EBOOK",
+            "tytul": "Sztuka komunikacji dla bystrzak\u00f3w",
+            "liczbastron": "144",
+            "datawydania": "2017-08-30"
+        },
+        {
+            "ident": "TAOBYS_EBOOK",
+            "tytul": "Taoizm dla bystrzak\u00f3w",
+            "liczbastron": "392",
+            "datawydania": "2019-03-12"
+        },
+        {
+            "ident": "TEMUB4_EBOOK",
+            "tytul": "Teoria muzyki dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "304",
+            "datawydania": "2021-06-08"
+        },
+        {
+            "ident": "TEMUBY_EBOOK",
+            "tytul": "Teoria muzyki dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "280",
+            "datawydania": "2014-08-14"
+        },
+        {
+            "ident": "TREPSO_EBOOK",
+            "tytul": "Trening ps\u00f3w dla bystrzak\u00f3w",
+            "liczbastron": "392",
+            "datawydania": "2013-04-24"
+        },
+        {
+            "ident": "TRESBY_EBOOK",
+            "tytul": "Trening si\u0142owy dla bystrzak\u00f3w. Wydanie IV",
+            "liczbastron": "392",
+            "datawydania": "2016-11-10"
+        },
+        {
+            "ident": "TREUBV_EBOOK",
+            "tytul": "Trening umys\u0142u dla bystrzak\u00f3w",
+            "liczbastron": "232",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "VNIIT2_W",
+            "tytul": "Niemiecki dla specjalist\u00f3w IT. Kurs video. Poziom drugi - \u015brednio zaawansowany. Doskonalenie kompetencji komunikacyjnych",
+            "liczbastron": "0",
+            "datawydania": "2019-01-18"
+        },
+        {
+            "ident": "WINOBY_EBOOK",
+            "tytul": "Wino dla bystrzak\u00f3w",
+            "liczbastron": "440",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "WLJEZV_3",
+            "tytul": "W\u0142adca J\u0119zyk\u00f3w, czyli prawie wszystko o tym, jak zosta\u0107 poliglot\u0105",
+            "liczbastron": "376",
+            "datawydania": "2020-02-25"
+        },
+        {
+            "ident": "WLJEZV_EBOOK",
+            "tytul": "W\u0142adca J\u0119zyk\u00f3w, czyli prawie wszystko o tym, jak zosta\u0107 poliglot\u0105",
+            "liczbastron": "376",
+            "datawydania": "2014-01-13"
+        },
+        {
+            "ident": "WLOSBY_EBOOK",
+            "tytul": "W\u0142oski dla bystrzak\u00f3w",
+            "liczbastron": "320",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "WYSZB3_EBOOK",
+            "tytul": "Wychowanie szczeni\u0105t dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "360",
+            "datawydania": "2014-07-16"
+        },
+        {
+            "ident": "ZAPRB5_EBOOK",
+            "tytul": "Zarz\u0105dzanie projektami dla bystrzak\u00f3w. Wydanie V",
+            "liczbastron": "424",
+            "datawydania": "2019-05-20"
+        },
+        {
+            "ident": "ZAPRBY_EBOOK",
+            "tytul": "Zarz\u0105dzanie projektami dla bystrzak\u00f3w",
+            "liczbastron": "336",
+            "datawydania": "2013-05-20"
+        },
+        {
+            "ident": "ZAPROB_EBOOK",
+            "tytul": "Zarz\u0105dzanie produktem dla bystrzak\u00f3w",
+            "liczbastron": "384",
+            "datawydania": "2020-01-28"
+        },
+        {
+            "ident": "ZAPSZE_EBOOK",
+            "tytul": "Zapytaj szefa. Jak si\u0119 dogada\u0107 w trudnych sytuacjach z prze\u0142o\u017conym, podw\u0142adnymi i kolegami z dzia\u0142u",
+            "liczbastron": "264",
+            "datawydania": "2019-03-26"
+        },
+        {
+            "ident": "ZAPSZE_3",
+            "tytul": "Zapytaj szefa. Jak si\u0119 dogada\u0107 w trudnych sytuacjach z prze\u0142o\u017conym, podw\u0142adnymi i kolegami z dzia\u0142u",
+            "liczbastron": "264",
+            "datawydania": "2019-04-02"
+        },
+        {
+            "ident": "ZAZBY3_EBOOK",
+            "tytul": "Zarz\u0105dzanie dla bystrzak\u00f3w. Wydanie III",
+            "liczbastron": "328",
+            "datawydania": "2016-09-18"
+        },
+        {
+            "ident": "ZAZBYS_EBOOK",
+            "tytul": "Zarz\u0105dzanie dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "376",
+            "datawydania": "2013-04-24"
+        },
+        {
+            "ident": "ZEGLBY_EBOOK",
+            "tytul": "\u017beglarstwo dla bystrzak\u00f3w. Wydanie II",
+            "liczbastron": "400",
+            "datawydania": "2013-04-12"
+        },
+        {
+            "ident": "ZOGWYT_EBOOK",
+            "tytul": "Zosta\u0144 gwiazd\u0105 YouTube'a. Tw\u00f3rz najlepsze filmy wideo! Dla m\u0142odych bystrzak\u00f3w",
+            "liczbastron": "128",
+            "datawydania": "2018-01-12"
+        }
+    ]
+}

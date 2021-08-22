@@ -1,0 +1,159 @@
+<html>
+    <head>
+        <meta charset="iso-8859-2">
+        <title>Zadanie 3</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+
+        <style>
+            th{color:#fff; padding-left: 1%;}
+            th:last-child{text-align: right; padding-right: 30px;}
+            table{width: 100%;}
+            tr{height: 40px;}
+            td{padding-left: 1%;}
+            td:last-child{text-align: right; padding-right: 30px; width:150px;width:auto; white-space: nowrap;}
+            div{position: fixed; width: 1000%; bottom:0;}
+            .placeholder{background-color: rgb(68, 163, 163); width: 100%; height: 10px; bottom:75px;}
+            @media (max-width: 600px) {
+                td{font-size: 3vw; overflow-wrap: break-word;}
+                td:first-child{width:auto; white-space: nowrap;}
+                td:last-child{width:auto; white-space: nowrap;}
+                th{font-size: 3vw; color:#fff;}
+                tr{height: 70px;}
+            }
+        </style>
+
+    </head>
+    <body>
+        <!-- Pola do wprowadzania danych wyszukiwania -->
+        <div>
+            <div class="placeholder"></div>
+            <input id="search-input" class="form-control" type="text" placeholder="Wyszukaj po nazwie książki: ">
+            <input id="limit-input" class="form-control" type="number" placeholder="Maksymalna liczba stron: ">
+        </div>
+        <!-- Tabela -->
+        <table class="table-striped">
+            <tr  class="bg-info">
+                <th id="ident" data-column="ident" data-order="desc">Ident  </th>
+                <th id="tytul" data-column="tytul" data-order="desc">Tytuł </th>
+                <th id="liczbastron" data-column="liczbastron" data-order="desc">Liczba stron  </th>
+                <th id="datawydania" data-column="datawydania" data-order="desc">Data wydania  </th>
+            </tr>
+            <tbody id="myTable">
+        
+            </tbody>
+        </table>
+
+        <script>
+            var myArray = []
+
+
+            // Pobieranie pliku data.json
+            $.ajax({
+                method:'GET',
+                url:'data.json',
+                success:function(response){
+                    myArray = response.ksiazki
+                    myArray_intact = myArray
+                    buildTable(myArray) // Tworzenie tabeli bez aktywnych filtrów
+                }
+            })
+
+
+            // Uruchamianie funkcji limitu stron połączonej z filtrowaniem tytułu książki po zmianie wartości or naciśnięciu klawisza
+            $('#limit-input').on('change keyup', function(){
+                var value = $('#search-input').val()
+                var data = searchTable(value, myArray_intact)
+                buildTable(data) // Tworzenie tabeli po filtracji
+                myArray = data // Nadpisanie danych przefiltrowanymi
+            })
+
+            $('#search-input').on('keyup', function(){
+                var value = $(this).val()
+                var data = searchTable(value, myArray_intact) // -//-
+                buildTable(data) // -//-
+                myArray = data // -//-
+            })
+
+
+            // Funkcja do filtrowania danych
+            function searchTable(value, data){
+                var filteredData = []
+                var value2
+
+                for (var i = 0; i < data.length; i++){
+                    value = value.toLowerCase() // Value = wpisana szukana fraz, zprowadzona do małych liter
+                    value2 = $('#limit-input').val() // Value2 = wprowadzony limit ilości stron
+
+                    var liczbastron = parseInt(data[i].liczbastron)
+
+                    if (value2 == ""){ // Jeżeli nie wprowadzony limit ilości stron, ustawienie go na 9999 żeby pokazało wszystkie wyniki (oby nie było dłuższych książek :> ) 
+                        value2 = 9999
+                    }
+                    if (value == ""){ // Jeżeli nie wpisana żadna szukana fraza przefiltruje tylko pod względem ilości stron 
+                        if (liczbastron < value2){
+                            filteredData.push(data[i])
+                        }
+                    }
+                    else{
+                        var name = data[i].tytul.toLowerCase() // tytuł książki sprowadzony do małych liter
+
+                        if (name.includes(value) && liczbastron < value2){ // W przeciwnym wypadku filtrowanie liczybystron i frazy
+                            filteredData.push(data[i])
+                        }
+                    }
+                }
+                return filteredData 
+            }
+
+
+            // Sortowanie danych po kliknięciu na nagłówki
+            $('th').on('click', function(){
+
+                var column = $(this).data('column') // Kliknięta kolumna 
+                var order = $(this).data('order') // Aktualne sortowanie
+
+                // Przywracanie nagłówków do normy
+                document.getElementById('ident').innerHTML = "Ident  "
+                document.getElementById('tytul').innerHTML = "Tytuł  "
+                document.getElementById('liczbastron').innerHTML = "Liczba stron  "
+                document.getElementById('datawydania').innerHTML = "Data wydania  "
+ 
+                var text = $(this).html() // text aktualnego nagłwka
+
+                if(order == 'desc'){ // jeśeli już posortowane malejąco sortuje rosnąco
+                    $(this).data('order', 'asc')
+                    myArray = myArray.sort((a,b) => a[column] > b[column] ? 1 : -1)
+                    text += '&#9650' // dodawanie  odpowiedniego znaku na koniec 
+                }
+                else{
+                    $(this).data('order', 'desc') // i odwrotnie
+                    myArray = myArray.sort((a,b) => a[column] < b[column] ? 1 : -1)
+                    text += '&#9660' // -//-
+                }
+                $(this).html(text) // nadpisanie nagłówka z nowym znakiem
+                buildTable(myArray)
+
+            })
+
+
+            // Funkcja tworząca tabele
+            function buildTable(data){
+
+                var table = document.getElementById('myTable')
+                table.innerHTML = '' // Czyszczenie aktualnej tablicy przed utworzeniem nowej
+
+                for (var i = 0; i < data.length; i++){ // Iteracja po wszystkich elementach
+                    var row = `<tr>
+                                    <td>${data[i].ident}</td>
+                                    <td>${data[i].tytul}</td>
+                                    <td>${data[i].liczbastron}</td>
+                                    <td>${data[i].datawydania}</td>
+                            </tr>`
+                    table.innerHTML += row
+                }
+            }
+        </script>
+    </body>
+</html>
