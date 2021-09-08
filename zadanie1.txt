@@ -1,6 +1,0 @@
-1. W 1 oraz 3 linijce elementy mają takie same ID, id powinno być indywidualne dla każdego elementu.
-2. W linijce 2 znacznik input nie pownien posiadać zakończenia </input>.
-3. W 4 linijce podwójne klasy zostały źle nadane, powinny zostać nadane tak jak w linijce 1.
-4. W 5 linijce znacznik </br> błędnie napisany, powinien wyglądać tak: <br>
-5. W 5 linijce zagnieżdzanie paragrafów jest błędem.
-
